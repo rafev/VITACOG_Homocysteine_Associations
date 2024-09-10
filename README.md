@@ -1,1 +1,2 @@
-This is the initial "Read Me" that was created in RStudio rather than initialized in GitHub!
+# VITACOG complete homocystine workup
+This repo contains a series of scripts with analyses and custom visualizations used for the 2023-2024 VITACOG homocystine project.
